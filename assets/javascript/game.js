@@ -51,10 +51,12 @@ teamTwoShotCountElement.innerHTML = teamTwoShotCount
     teamOneGoalCountElement.innerHTML = 0;
     teamOneShotCountElement.innerHTML = 0;
 
+    teamTwoGoalCountElement.innerHTML = 0;
+    teamTwoShotCountElement.innerHTML = 0;
+
   numberOfResets = numberOfResets + 1
   numberOfResetsElement.innerHTML = numberOfResets
 
-// numberOfResetsElement.innerHTML = parseInt(numberOfResetsElement.innerHTML) + 1;
   })
   
     
